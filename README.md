@@ -1,12 +1,12 @@
-#PSKLRMRFI
+# PSKLRMRFI
 
-##Team
+## Team
  * Jake Kelly
  * Jeff Kranking
  * Warner Nielsen
 
 
-##Site
+## Site
 
 https://robot-army-uh-i-mean-catalog.herokuapp.com/
 
